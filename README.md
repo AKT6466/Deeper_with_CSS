@@ -1,6 +1,6 @@
-# Pete's Portfolio Starter Project
+# Kratt Portfolio Starter Project
 
-This repository contains a starter template for Pete's portfolio. The project helps you learn how to create a personal portfolio page using HTML and CSS, while also getting familiar with basic design principles.
+This repository contains a starter template for Kratt's portfolio. The project helps you learn how to create a personal portfolio page using HTML and CSS, while also getting familiar with basic design principles.
 
 ## Project Overview
 
